@@ -10,3 +10,14 @@ shoots with left click.
 <img width="483" alt="Resim1" src="https://user-images.githubusercontent.com/55497058/147157908-c07dc737-21d7-403a-aab6-c5e94eeadd8e.png">
 
 <img width="454" alt="Resim2" src="https://user-images.githubusercontent.com/55497058/147157917-acf84af9-0517-41ff-b80f-0b97d6f25304.png">
+
+
+
+packages:
+
+
+1) For 3D gun prefab:
+https://assetstore.unity.com/packages/3d/props/guns/sci-fi-gun-light-87916
+2) For Third Person Character Controller:
+https://assetstore.unity.com/packages/essentials/starter-assets-third-person-
+character-controller-196526
