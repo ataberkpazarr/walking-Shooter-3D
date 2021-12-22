@@ -19,5 +19,4 @@ packages:
 1) For 3D gun prefab:
 https://assetstore.unity.com/packages/3d/props/guns/sci-fi-gun-light-87916
 2) For Third Person Character Controller:
-https://assetstore.unity.com/packages/essentials/starter-assets-third-person-
-character-controller-196526
+https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-196526
